@@ -1,4 +1,4 @@
-项目结构
+项目结构 1
 ├─jeecg-boot-parent（父POM： 项目依赖、modules组织）
 │  ├─jeecg-boot-base-core（共通模块： 工具类、config、权限、查询过滤器、注解等）
 │  ├─jeecg-module-demo    示例代码
